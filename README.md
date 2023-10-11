@@ -1,6 +1,6 @@
 # arduinoWomenInTech
 Minicurso de Arduino para Women In tech
-Este minicurso foi desenvolvido por Bárbara Fernandes Madera(https://www.linkedin.com/in/barbarafernandesmadera/), ministrado por Marilene Andrade Garcia(https://www.linkedin.com/in/marilene-andrade-garcia/), promovido pelo grupo Women In Tech(USP-São Carlos https://www.instagram.com/women.in.tech/) e supervisionado pela professora Sarita Mazzini Bruschi(https://bv.fapesp.br/pt/pesquisador/35151/sarita-mazzini-bruschi/)
+Este minicurso foi desenvolvido por Bárbara Fernandes Madera(https://www.linkedin.com/in/barbarafernandesmadera/), ministrado por Marilene Andrade Garcia(https://www.linkedin.com/in/marilene-andrade-garcia/) e Gabriela Barion Vidal(linkedin.com/in/gabriela-barion-vidal), promovido pelo grupo Women In Tech(USP-São Carlos https://www.instagram.com/women.in.tech/) e supervisionado pela professora Sarita Mazzini Bruschi(https://bv.fapesp.br/pt/pesquisador/35151/sarita-mazzini-bruschi/)
 Slides do Minicurso: https://docs.google.com/presentation/d/17yG0WzDxPiHXO5ARBjVEcadKhVgNH6bF0Xcv0TwP7AQ/edit?usp=sharing
 Material Utilizado: 
   Kit por pessoa/dupla: 
